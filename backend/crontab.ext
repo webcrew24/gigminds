@@ -1,0 +1,4 @@
+0 */4 * * * /usr/bin/python3 /var/www/html/talenthub/backend/jobs/main.py >> /var/www/html/talenthub/backend/logs/jobs_cron.log 2>&1
+0 */1 * * * /usr/bin/python3 /var/www/html/talenthub/backend/resume-inbox/process-inbox.py >> /var/www/html/talenthub/backend/logs/inbox_cron.log 2>&1
+20 */1 * * * /usr/bin/python3 /var/www/html/talenthub/backend/resume-inbox/process-inbox.py >> /var/www/html/talenthub/backend/logs/inbox_cron.log 2>&1
+22 */1 * * * /usr/bin/python3 /var/www/html/talenthub/backend/parse-resume/ParseResumeBinary.py >> /var/www/html/talenthub/backend/logs/parse_resume.log 2>&1

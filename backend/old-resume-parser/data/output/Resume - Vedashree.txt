@@ -1,0 +1,133 @@
+ 
+
+VEDASHREE BHANDARE 
+
+Email: vedashreepopatrao.bhandare@sjsu.edu | Phone: 6692219915| LinkedIn 
+
+ 
+ 
+SUMMARY 
+  
+Salesforce developer and administrator with 3 years of experience in project development, maintenance. Proficient in Salesforce 
+configuration and Development. Experience in developing Salesforce lightning component. Familiarity with project management 
+approaches, tools and project lifecycle phases. 
+ 
+TECHNICAL SKILLS 
+ 
+Programming/Scripting Languages: Java, C, C++, Python, Apex, Visualforce, JavaScript, HTML/CSS. Query Languages: SQL, SOQL. 
+ 
+Database: MYSQL, NoSQL (Mongo DB, Cassandra) Operating Systems: Windows, Linux (Ubuntu) 
+Software Tools: Eclipse, Git, Minitab,Python libraries (Pandas, Sickit learn, NLTK, NumPy, SciPy, Matlab) 
+ 
+WORK EXPERIENCE 
+ 
+Application Development Analyst, Accenture 
+ 
+Designed, developed and maintained salesforce CRM for a financial client across US. 
+ 
+
+●  Analyzed business and functional requirements. Designed technical solution for Territory Management Module. 
+●  Designed and implemented APEX Triggers, Classes, Batch jobs, Workflow, Validation rules for complex functionalities. 
+
+June 2015 – July 2018 
+
+Built Visual Force pages. 
+
+ 
+
+●  Used JavaScript, HTML and CSS for lightning component development. 
+● 
+
+Integrated our salesforce org with legacy systems using REST/SOAP API using JSON and XML. Generated 
+reports and dashboards to draw analytical insights about the sales data. 
+
+●  Trained associates with best coding practices. Assigned and reviewed the given task. 
+
+ 
+EDUCATION 
+  
+Master of Science in Computer Science – San Jose State University, CA, US, GPA: 3.8 
+Bachelor of Computer Engineering – University of Pune, MH, India 
+ 
+Courses – Advanced Operating System, Relational Database Management Systems, Data Structure and Algorithms, Object-Oriented 
+Programming, Software Engineering, Topics in Machine Learning, Design and Analysis of Algorithm, NoSQL Databases. 
+ 
+PROJECTS 
+ 
+Quora Question Pairs (Technologies used: Python, NLTK, Word2Vec) 
+ 
+
+ 
+Aug 2018 – (Expected) May2020 
+ Aug 2011 – May 2015 
+
+Aug 2018 – Dec 2018 
+
+• 
+
+Solving natural language processing problem by applying advanced Machine Learning techniques to classify whether 
+question pairs are duplicates or not. 
+
+ 
+
+•  Applied various ML models like Logistic Regression, Random Forest, SVM and experimented with DNN. 
+
+Predict Which Passengers Will Survive Sinking Titanic (Technologies used: Python, Minitab, Matplotlib) 
+
+Aug 2018 – Dec 2018 
+
+ 
+
+●  Performed all the data analysis steps for predict if a particular passenger survived the sinking or not. 
+●  Machine learning model used was SVM, Grid Search was used for hyperparameter selection. Data analysis like hypothesis 
+
+testing, logistic regression was done using statistical tool – Minitab. 
+
+Intelligent Carpooling Application (Technologies used: Android SDK, JAVA and MYSQL) 
+ 
+
+Aug 2014 – May 2015 
+
+●  Application side development involved use of Android SDK, while server-side coding was done using JAVA. Tomcat 
+
+ 
+
+server was used along with MySQL database. 
+
+●  Used Google Cloud Messaging API for connection between the application and the server. 
+
+Dead Stock Management (Technologies used: C#, Oracle 11g, VisualBasics) 
+ 
+ 
+
+●  Oracle 11g database was used to store data and SQL was used to save and retrieve data. 
+●  The application automated process reducing human errors, increasing accuracy, precision and improved profitability by 
+
+June 2013 – Dec 2013 
+
+20%. 
+
+ 
+CERTIFICATIONS 
+ 
+ 
+
+●  Salesforce Certified Platform Developer | January 29, 2017 
+
+ 
+
+●  Salesforce Certified App Builder | October 22, 2016 
+
+●  Salesforce Certified Admin | November 27, 2015 
+
+ 
+LEADERSHIP ACTIVITIES AND ACHIEVEMENT 
+ 
+
+●  “Star of the Month Award” for dedication, commitment and an inspiring role model to colleagues. 
+●  “Centre of Excellence” for on-time and quality deliverable provided to client under stringent time lines. 
+●  Held Brownbag sessions for new salesforce release and spread awareness about best coding practices. 
+
+ 
+
+

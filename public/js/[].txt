@@ -1,0 +1,31 @@
+* Title
+* City/Location
+* State/Province
+* Zip/Postal Code
+* Summary
+* Company (should have a lookup where user can pick existing organization name from "Organizations" table)
+* Details
+* Employment Type (drop down list with values of Full-time, Part-time, Contract, Temporary, Seasonal, Internship)
+* Rate Type (drop down list with values of Salary, Hourly)
+* (If Salary, show) Salary
+* (If Hourly, show) Hourly Rate
+* Posting date - Date picker
+
+
+id -> new id
+reference_id -> id
+city -> City/Location form field
+zip_postal -> Zip/Postal Code form field
+Tstate_province -> State/Province from field
+title -> Title form field
+company -> Org Name from selected OrgId from Organizations table
+location -> Cit/Location form field
+summary -> Summary form field
+salary -> Salary form field
+posting_date -> Posting date from field
+details -> Details form field
+source -> Internal
+type -> Position Type form field
+hourly_rate -> Hourly rate form field
+org_id -> Selected Org Id from Organization
+uuid -> Generate new UUID

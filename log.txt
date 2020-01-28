@@ -1,0 +1,8 @@
+Completed =>	Fremont	salesforce	19	0	5.957857131958008	file_1
+Completed =>	San Francisco	salesforce	19	0	7.3285839557647705	file_2
+Completed =>	Berkeley	salesforce	19	0	5.936647891998291	file_3
+Completed =>	Campbell	salesforce	19	0	5.9814772605896	file_4
+Completed =>	Cupertino	salesforce	18	0	5.8481268882751465	file_5
+Completed =>	Daly City	salesforce	19	0	6.249606132507324	file_6
+Completed =>	Dublin	salesforce	18	0	5.431690692901611	file_7
+Completed =>	Palo Alto	salesforce	19	0	6.466649532318115	file_8

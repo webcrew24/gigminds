@@ -1,0 +1,177 @@
+
+.bg-dark {
+    background-color: #3279be !important;
+  }
+
+.nav-item a {
+    color: #ffffff;
+  }
+
+a.navbar-brand {
+    color: #ffffff;
+  }
+
+
+/* BEGIN CSS STYLE FOR LOGIN PAGE */
+.user_card {
+    height: 400px;
+    width: 500px;
+    margin-top: auto;
+    margin-bottom: auto;
+    background: whitesmoke;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+
+}
+.brand_logo_container {
+    position: absolute;
+    margin-left: 0px;
+    padding-left: 0px;
+    height: 170px;
+    width: 170px;
+    top: -75px;
+    border-radius: 50%;
+    background: #3279be;
+    padding: 10px;
+    text-align: center;
+}
+.brand_logo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.form_container {
+    margin-top: 100px;
+}
+.login_btn {
+    width: 100%;
+    background: #017CDC !important;
+    color: white !important;
+}
+.login_btn:focus {
+    box-shadow: none !important;
+    outline: 0px !important;
+}
+.login_container {
+    padding: 0 2rem;
+}
+.input-group-text {
+    background: #017CDC !important;
+    color: white !important;
+    border: 0 !important;
+    border-radius: 0.25rem 0 0 0.25rem !important;
+}
+.input_user,
+.input_pass:focus {
+    box-shadow: none !important;
+    outline: 0px !important;
+}
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    background-color: #017CDC !important;
+}  
+/* END CSS STYLE FOR LOGIN PAGE */
+
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+.btn-add {
+    margin:20px;
+}
+
+.form-container {
+    margin: 0 auto;
+    width:50%;
+  
+    border: #e2e2e2 1px solid;
+    padding: 20px 40px;
+    border-radius: 4px;
+}
+
+.box-container {
+    border: #e2e2e2 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    background: #FFF;
+    float: left;
+    margin-bottom: 10px;
+    max-width: 48%;
+    margin-right: 10px;
+}
+
+.left-container
+{
+    border: #e2e2e2 1px solid;
+    padding: 20px;
+    border-radius: 4px;
+    background: #FFF; 
+}
+.title h3{
+    margin: 10px 0px 20px 0px;
+    font-size:1rem;
+}
+.title{
+    height: 60px;
+}
+.description {
+    margin-bottom: 10px;
+    height:  80px;
+    font-size:0.80rem;
+}
+
+.category {
+    background-color: #e2e2e2;
+    display: inline;
+    float: left;
+    padding: 5px 20px;
+    border: #d4d4d4 1px solid;
+    border-radius: 4px;
+    float: left;
+}
+
+.action .btn-action{
+    background-color: #64afff;
+    border: #5ea5f1 1px solid;
+    padding: 5px 20px;
+    color: #FFF;
+    border-radius: 4px;
+}
+
+.action .btn-hide{
+    background-color: red;
+    border: #5ea5f1 1px solid;
+    padding: 5px 20px;
+    color: #FFF;
+    border-radius: 4px;
+}
+.action {
+    float: right;
+}
+.margintop
+{
+    margin-top: 20px;
+}
+.disabledbutton {
+    opacity: 0.4;
+}
+
